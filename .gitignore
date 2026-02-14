@@ -1,0 +1,6 @@
+# Python Bytecode (the files causing your current error)
+__pycache__/
+*.py[cod]
+*$py.class
+
+
